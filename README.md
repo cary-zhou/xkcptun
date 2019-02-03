@@ -25,9 +25,7 @@
 
 # xkcptun 基于kcp和libevent2库，用c语言实现的kcptun
 
-xkcptun主要应用于LEDE，openwrt中，其原理如图：
-
-<img src="kcptun.png" alt="kcptun" height="300px"/>
+xkcptun主要应用于LEDE，openwrt中。
 
 ### Compile
 
@@ -143,7 +141,7 @@ xkcp_spy -h 192.168.199.18 -c -t status
 
 ### Todo
 
-Compatible with [kcptun](https://github.com/xtaci/kcptun)  <img src="https://github.com/xtaci/kcptun/blob/master/logo-small.png" alt="kcptun" height="24px" /> 
+Compatible with [kcptun](https://github.com/xtaci/kcptun)
 
 
 
